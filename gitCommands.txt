@@ -7,6 +7,10 @@ git status
 git add <filename> 
     -> Adds file to staging area    
 
+
+git add . or git add --all 
+    -> Adds all changes to the staging area.
+
 git commit -m "commit message" 
 
     -> commits files to staging area to local repo
