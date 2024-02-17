@@ -4,3 +4,10 @@ git init
 git status 
     -> Shows Status of the working director
 
+git add <filename> 
+    -> Adds file to staging area    
+
+git commit -m "commit message" 
+
+    -> commits files to staging area to local repo
+    -> along with commit message
