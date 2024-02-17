@@ -1,0 +1,6 @@
+git init 
+    -> Initialize git
+
+git status 
+    -> Shows Status of the working director
+
