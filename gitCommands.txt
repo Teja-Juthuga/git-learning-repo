@@ -11,3 +11,17 @@ git commit -m "commit message"
 
     -> commits files to staging area to local repo
     -> along with commit message
+
+git remote add origin <remote git repo url>
+    -> simply it links local repo and remote repo 
+    -> we link initially later it doestn't require to add regularly
+
+    -> example:- git remote add origin https://github.com/Teja-Juthuga/git-learning-repo.git
+
+git push -u origin master
+    -> Through this command it pushes batch files from local repo to remote repo 
+    -> Here we initially mention its branch - Whether it might be master/ main branch
+
+git branch
+    -> This command returns branch of the remote repo
+    
